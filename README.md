@@ -31,4 +31,5 @@ Matplotlib
 ### 2. Prepare the Data: 
 Organize your images into train, test, and val directories with subdirectories for each class.
 
-### 3. Run the Script: Execute the script to train the model and visualize accuracy and loss curves.
+### 3. Run the Script: 
+Execute the script to train the model and visualize accuracy and loss curves.
